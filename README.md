@@ -1,5 +1,4 @@
-# ecommerce-automation-testing-framework
-Python-based E-Commerce automation framework for Web, API & Database testing using Selenium, PyTest, Requests, MySQL, Jenkins, and Allure.
+
 # E-Commerce Automation Testing Framework
 
 A Python-based automation testing framework for testing an e-commerce application across the **web, API, and database layers**.
